@@ -1,0 +1,2 @@
+PORT= 8000
+DATABASE_URI = mongodb+srv://himanshukakran8:himanshu1234@cluster0.0semzpu.mongodb.net
