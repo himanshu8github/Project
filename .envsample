@@ -1,2 +1,13 @@
 PORT= 8000
 DATABASE_URI = mongodb+srv://himanshukakran8:himanshu1234@cluster0.0semzpu.mongodb.net
+
+
+
+ACCESS_TOKEN_SECRET=chai-aur-code
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=chai-aur-code
+REFRESH_TOKEN_EXPIRY=10d
+
+CLOUDINARY_CLOUD_NAME=himanshucloudinary01
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
